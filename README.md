@@ -20,7 +20,7 @@
        <img alt="Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-original.svg" />
        <img alt="Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-original.svg" />
        <img alt="Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain-wordmark.svg" />
-       <img alt="Spring Boot" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg" />
+       <img alt="Spring Boot" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original-wordmark.svg" />
      </td>
    </tr>
  </table>
