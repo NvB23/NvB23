@@ -7,24 +7,6 @@
 
  </div>
  
- <br>
-
-<div style="display: flex; flex-direction: column; align-items: center;">
- <table align="left-center" style="background-color: white; border: 5px solid black; border-radius: 10px; padding: 10px;">
-   <tr>
-     <td>
-       <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-       <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-       <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-       <img alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-       <img alt="Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-original.svg" />
-       <img alt="Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-original.svg" />
-       <img alt="Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain-wordmark.svg" />
-       <img alt="Spring Boot" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original-wordmark.svg" />
-     </td>
-   </tr>
- </table>
- 
   
   <br>
   
